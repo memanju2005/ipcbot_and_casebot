@@ -1,7 +1,20 @@
-# ipcbot_and_casebot
-2 bots :
 
-ipc bot trained on kaggle dataset with cohere 'command 'model
-and
+# 🧠 IPC & Crime Case Chatbot
 
-the other cases bot integrated with serperapi to search web(wiki)
+A Jupyter Notebook chatbot to:
+
+- 📘 Answer questions about **Indian Penal Code (IPC)** sections
+- 📰 Provide recent **news updates on crime cases**
+
+---
+
+## 🔑 Requirements
+
+You'll need free API keys:
+
+- **Cohere API key** → [https://dashboard.cohere.com](https://dashboard.cohere.com)
+- **Serper API key** → [https://serper.dev](https://serper.dev)
+
+---
+
+
